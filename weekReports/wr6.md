@@ -39,6 +39,15 @@ the [] wildcard matches a single character in a range can also use the exclamati
   * match all files that do not have a vowel after the letter f
     * `ls f[!aeiou]*`    
 
+### practice 5
+![practice5](wr6-p1.png)<br>
+
+### practice 6
+![practice6](wr6-p6.png)<br>
+
+### practice 7
+![practice7](wr6-p7.png)<br>
+
 ### brace expansion
 allows you to generate arbitrary strings to use with commands
 * examples: 
